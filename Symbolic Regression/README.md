@@ -8,3 +8,5 @@ Source: https://medium.com/sinicx/a-new-transformer-model-for-symbolic-regressio
 
 GitHub: https://github.com/facebookresearch/symbolicregression
 
+GitHub: https://github.com/omron-sinicx/transformer4sr
+
