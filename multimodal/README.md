@@ -13,3 +13,12 @@ Source: https://trail.t.u-tokyo.ac.jp/ja/blog/22-12-02-clip/
 
 GitHub: https://github.com/OpenAI/CLIP
 
+---
+Vision-Language 系 マルチモーダルモデル一覧（原則日本語対応モデル限定）
+
+Source: https://qiita.com/yuji-arakawa/items/1135f6d71acdec157db3
+
+clip-japanese-base
+
+Hugging Face: https://huggingface.co/line-corporation/clip-japanese-base
+
