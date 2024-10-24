@@ -6,6 +6,12 @@ OpenAI CLIP(Contrastive Language-Image Pre-Training)  vs. RemoteCLIP (Source: ht
 
 * RemoteCLIP is a zero-shot classification model for remote sensing.
 
+GitHub: https://github.com/ChenDelong1999/RemoteCLIP
+
+![image](https://github.com/user-attachments/assets/a7ba0b50-88ab-41c6-a591-07a5511ccf76)
+ 
+---
+
 
 
 
