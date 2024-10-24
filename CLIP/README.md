@@ -11,6 +11,11 @@ GitHub: https://github.com/ChenDelong1999/RemoteCLIP
 ![image](https://github.com/user-attachments/assets/a7ba0b50-88ab-41c6-a591-07a5511ccf76)
  
 ---
+page 2
+
+![image](https://github.com/user-attachments/assets/45b92316-0129-4383-8802-f5b32ab2ad14)
+
+---
 
 
 
