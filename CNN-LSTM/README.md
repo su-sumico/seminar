@@ -1,7 +1,7 @@
 page 1
 ![image](https://github.com/user-attachments/assets/ab52a444-d5ac-4daa-8f3c-e0b323292212)
 
-https://www.mdpi.com/2076-3417/12/3/1550
+* https://www.mdpi.com/2076-3417/12/3/1550
 
 ---
 page 2
@@ -20,11 +20,13 @@ page 3
 ---
 page 4
 ![image](https://github.com/user-attachments/assets/aadcad98-a5c2-4716-87ba-c97c0f64551d)
-https://www.kaggle.com/code/dkdevmallya/deep-learning-cnn-lstm-time-series-forecasting/notebook
+
+* https://www.kaggle.com/code/dkdevmallya/deep-learning-cnn-lstm-time-series-forecasting/notebook
 
 ---
 page 5
 ![image](https://github.com/user-attachments/assets/b3e5d981-e48c-42c4-bc7a-69da2fe2dd3b)
-https://github.com/muntasirhsn/CNN-LSTM-model-for-energy-usage-forecasting
+
+* https://github.com/muntasirhsn/CNN-LSTM-model-for-energy-usage-forecasting
 
 ---
