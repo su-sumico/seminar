@@ -30,3 +30,10 @@ page 5
 * https://github.com/muntasirhsn/CNN-LSTM-model-for-energy-usage-forecasting
 
 ---
+page 6
+![image](https://github.com/user-attachments/assets/7af7072d-d7bd-4322-aea0-d922158bb5c0)
+
+* https://www.kaggle.com/code/dkdevmallya/deep-learning-cnn-lstm-time-series-forecasting/input
+
+---
+
